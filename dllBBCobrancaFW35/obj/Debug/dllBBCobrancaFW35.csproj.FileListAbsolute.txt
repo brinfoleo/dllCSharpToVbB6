@@ -1,0 +1,7 @@
+C:\dev\DotNet\dllBBCobranca\dllBBCobrancaFW35\dllBBCobrancaFW35\bin\Debug\dllBBCobrancaFW35.dll
+C:\dev\DotNet\dllBBCobranca\dllBBCobrancaFW35\dllBBCobrancaFW35\bin\Debug\dllBBCobrancaFW35.pdb
+C:\dev\DotNet\dllBBCobranca\dllBBCobrancaFW35\dllBBCobrancaFW35\bin\Debug\dllBBCobrancaFW35.tlb
+C:\dev\DotNet\dllBBCobranca\dllBBCobrancaFW35\dllBBCobrancaFW35\obj\Debug\dllBBCobrancaFW35.csproj.AssemblyReference.cache
+C:\dev\DotNet\dllBBCobranca\dllBBCobrancaFW35\dllBBCobrancaFW35\obj\Debug\dllBBCobrancaFW35.csproj.CoreCompileInputs.cache
+C:\dev\DotNet\dllBBCobranca\dllBBCobrancaFW35\dllBBCobrancaFW35\obj\Debug\dllBBCobrancaFW35.dll
+C:\dev\DotNet\dllBBCobranca\dllBBCobrancaFW35\dllBBCobrancaFW35\obj\Debug\dllBBCobrancaFW35.pdb

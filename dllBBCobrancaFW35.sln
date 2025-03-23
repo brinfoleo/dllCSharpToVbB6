@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dllBBCobrancaFW35", "dllBBCobrancaFW35\dllBBCobrancaFW35.csproj", "{88DFCB1C-F430-4377-9C8F-D0DE1A7E8D13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88DFCB1C-F430-4377-9C8F-D0DE1A7E8D13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88DFCB1C-F430-4377-9C8F-D0DE1A7E8D13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88DFCB1C-F430-4377-9C8F-D0DE1A7E8D13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88DFCB1C-F430-4377-9C8F-D0DE1A7E8D13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF2EAB91-ACD5-4494-A543-1DFF3E6BCDD4}
+	EndGlobalSection
+EndGlobal
